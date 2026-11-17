@@ -202,4 +202,4 @@ See the `LICENSE` file for details.
 
 ---
 
-\<p align="center">   If you find this project useful, consider giving it a ⭐ on GitHub! \</p>
+<p align="center">   If you find this project useful, consider giving it a ⭐ on GitHub! </p>
