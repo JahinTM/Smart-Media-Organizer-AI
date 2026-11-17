@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/AI-Hybrid-purple" alt="Hybrid AI">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
 </p>
+
+
+
 ## Overview
 
 **Smart Media Organizer AI** is a desktop application designed to make photo and video organization easier, faster, and smarter.
