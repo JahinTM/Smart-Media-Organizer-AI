@@ -1,0 +1,3 @@
+# Optional: enables offline visual classification (large download; PyTorch can be several GB)
+torch
+transformers
