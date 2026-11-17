@@ -1,14 +1,12 @@
 # Smart Media Organizer AI
 
 **An AI-powered Windows desktop application that automatically organizes photos and videos, detects duplicate files, and creates smart folders using hybrid AI (local and cloud-based recognition).**
-
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Python-3.10%2B-blue?logo=python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)" alt="Python">
-&#x20; \<img src="[https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows)" alt="Windows">
-&#x20; \<img src="[https://img.shields.io/badge/AI-Hybrid-purple](https://img.shields.io/badge/AI-Hybrid-purple)" alt="Hybrid AI">
-&#x20; \<img src="[https://img.shields.io/badge/License-MIT-green](https://img.shields.io/badge/License-MIT-green)" alt="MIT License">
-\</p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows" alt="Windows">
+  <img src="https://img.shields.io/badge/AI-Hybrid-purple" alt="Hybrid AI">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
+</p>
 ## Overview
 
 **Smart Media Organizer AI** is a desktop application designed to make photo and video organization easier, faster, and smarter.
